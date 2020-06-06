@@ -1,0 +1,12 @@
+"Facility Reference 
+Number",The licence identification number of the facility
+Licence Holder,The name of the company or person that holds the aquaculture licence for the facility. 
+Site Common Name,The name most commonly used to refer to the aquaculture facility.
+Fish Health Zone,General geographic location of the facility. A map of the 10 fish health surveillance zones in DFO Pacific Region can be found at www.pac.dfo-mpo.gc.ca/aquaculture/maps-cartes-eng.html#Fish_Health 
+Number of Counts Performed,Number of times a facility has monitored for sea lice during the calendar month.  A  minimum of three pens (with 20 fish per pen) must be assessed each time. 
+Average L. salmonis motiles per fish,"Lepeophtheirus salmonis is the scientific name for the salmon louse. Motiles refers to female and male preadult and adult stages of the salmon louse. This column shows the average number of motile L. salmonis per farmed salmon examined. From March 1 to June 30, the regulatory threshold is three motiles per fish.  "
+Average L. salmonis females per fish,Female L. salmonis refers to adult female salmon lice.  This column provides information on the average number of adult female salmon lice per farmed salmon examined.
+Average chalimus per fish,Chalimus refers to the juvenile stages of lice found on salmon.  This column shows the average number of chalimus stages of lice per farmed fish examined.  The species of louse is not determined. 
+Average caligus per fish,Caligus clemensi is the scientific name for the herring louse.  The average number of motile stages of this louse species per farmed salmon is provided in this column.
+Comments,Comments may include reasons why data are not available or state the health management measures a licence holder must initiate when the regulatory threshold of three motile salmon lice per fish is exceeded.
+Year Class,"Year class refers to the amount of time the farmed fish population has spent in seawater. One is less than a year, two is greater than a year.  "
