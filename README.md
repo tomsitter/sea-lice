@@ -10,6 +10,6 @@ My first analysis was to overlay the locations of fish farms and lighthouses (wh
 
 # Visualization of NASA Satellite Data
 
-My second was to sea surface temperature varied across the provice, to understand how much variation occurs. 
+My second was to sea surface temperature varied across the provice, to understand how much variation occurs. Comparing these temperatures with the distribution of farms and lighthouses above shows that there is a large cluster of farms between the island and the mainland in cooler water temperatures and no nearby lighthouses. This would be a big gap in any effort to use lighthouse data for modelling.
 
 ![sst_example](https://user-images.githubusercontent.com/2029528/162269381-ac0177b3-d000-4ae3-bb2f-0506bdf8a5d4.PNG)
